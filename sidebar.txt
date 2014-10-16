@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[bct:home|Door43 (bct)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-bct|d43-bct repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-bct/archive/master.zip|d43-bct.zip]]
+
+**Recent Changes**
+{{changes>ns = bct}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/bct|Ethnologue data]]
+
